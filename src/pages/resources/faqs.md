@@ -168,7 +168,7 @@ lead: Common questions about submitting to and attending ML4H 2026.
 
 <div class="faq-item">
 <h3>Will there be a virtual option to attend ML4H this year?</h3>
-<p>In certain circumstances, subject to approval from the ML4H organizing committee and AHLI, virtual, asynchronous poster presentations may be available. </p>
+<p><strong>ML4H is an entirely in-person event.</strong> In certain circumstances, subject to approval from the ML4H organizing committee and AHLI, virtual, asynchronous poster presentations may be available fotr authors of accepted work affected by political restrictions that impact their travel. </p>
 </div>
 </div>
 
